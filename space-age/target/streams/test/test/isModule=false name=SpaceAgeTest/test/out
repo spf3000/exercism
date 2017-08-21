@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0m[32mSpaceAgeTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- age in seconds[0m[0m
+[0m[[0minfo[0m] [0m[31m- age in earth years *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  31.68808781402895 was not equal to 31.69 (SpaceAgeTest.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age in mercury years *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  67.64886074986691 was not equal to 67.65 (SpaceAgeTest.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age in venus years *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  6.015661393768855 was not equal to 6.02 (SpaceAgeTest.scala:25)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age on mars *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  73.82916441681243 was not equal to 73.83 (SpaceAgeTest.scala:32)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age on jupiter *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  28.57873799021472 was not equal to 28.58 (SpaceAgeTest.scala:39)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age on saturn *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  95.06426344208685 was not equal to 95.06 (SpaceAgeTest.scala:46)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age on uranus *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  101.7226739676021 was not equal to 101.72 (SpaceAgeTest.scala:53)[0m[0m
+[0m[[0minfo[0m] [0m[31m- age on neptune *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  260.1631130377468 was not equal to 260.16 (SpaceAgeTest.scala:60)[0m[0m

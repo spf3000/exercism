@@ -1,0 +1,115 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alandevlin/exercism/scala/protein-translation/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> /Users/alandevlin/exercism/scala/protein-translation/target/scala-2.12/classes/ProteinTranslation$.class
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> /Users/alandevlin/exercism/scala/protein-translation/target/scala-2.12/classes/ProteinTranslation.class
+binary dependencies:
+2 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> /Users/alandevlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> ProteinTranslation
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> ProteinTranslation$
+used names:
+36 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> !=
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> ->
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> <init>
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> <repeated>
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> A
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Any
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> AnyRef
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> ArrowAssoc
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> B
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Boolean
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> CanBuildFrom
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Coll
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Function1
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Int
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Iterator
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Map
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Nothing
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Object
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Predef
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> ProteinTranslation
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Seq
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> String
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> StringOps
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> That
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> Tuple2
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> apply
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> augmentString
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> canBuildFrom
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> code
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> codeMap
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> collection
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> grouped
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> map
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> scala
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> takeWhile
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> toSeq
+product stamps:
+2 items
+/Users/alandevlin/exercism/scala/protein-translation/target/scala-2.12/classes/ProteinTranslation$.class -> lastModified(1502638853000)
+/Users/alandevlin/exercism/scala/protein-translation/target/scala-2.12/classes/ProteinTranslation.class -> lastModified(1502638853000)
+source stamps:
+1 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> hash(2468529b167703ab3d9bc9180da24b1717d1af07)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466622116000)
+/Users/alandevlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alandevlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.collection.IterableLike
+internal apis:
+1 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyZf9VgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFJiyAnQAB2NvZGVNYXBzcQB+AAzxym56dAAGbm90aWZ5c3EAfgAMk9SkrHQABHdhaXRzcQB+AAwE9nvMdAANJGFzSW5zdGFuY2VPZnNxAH4ADMoV8sd0AAZlcXVhbHNzcQB+AAwCQbKqdAAMYXNJbnN0YW5jZU9mc3EAfgAMlpkQPHQADHN5bmNocm9uaXplZHNxAH4ADF0579R0AA0kaXNJbnN0YW5jZU9mc3EAfgAMjwfjznQACW5vdGlmeUFsbHNxAH4ADOB/4R10AAxpc0luc3RhbmNlT2ZzcQB+AAyv1ITBdAACPT1zcQB+AAylIKPndAAFY2xvbmVzcQB+AAzSzvG1dAAJdHJhbnNsYXRlc3EAfgAMst1EOXQAElByb3RlaW5UcmFuc2xhdGlvbnNxAH4ADEH/ENF0AAh0b1N0cmluZ3NxAH4ADGF33350AAIhPXNxAH4ADNSdBOt0AAhnZXRDbGFzc3NxAH4ADKlZKu50AAJuZXNxAH4ADP2tZ1R0AAJlcXNxAH4ADJtVQZx0AAIjI3NxAH4ADMD8DuV0AAhmaW5hbGl6ZXNxAH4ADByyNAB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AF9zcQB+AFp1cQB+AD4AAAAAc3EAfgBadXEAfgA+AAAAAHNxAH4AWnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ad3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHNxAH4Aa3QAA0FueXNxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHd0AAVzY2FsYXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3cQUgYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATi9Vc2Vycy9hbGFuZGV2bGluL2V4ZXJjaXNtL3NjYWxhL3Byb3RlaW4tdHJhbnNsYXRpb24vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCRoUpsWdwOrPZvJGA2iSxcX0a8H
+external apis:
+0 items
+source infos:
+1 items
+/Users/alandevlin/exercism/scala/protein-translation/src/main/scala/ProteinTranslation.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdxAoZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9hbGFuZGV2bGluL2V4ZXJjaXNtL3NjYWxhL3Byb3RlaW4tdHJhbnNsYXRpb24vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdxBSBh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy9hbGFuZGV2bGluL2V4ZXJjaXNtL3NjYWxhL3Byb3RlaW4tdHJhbnNsYXRpb24vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=

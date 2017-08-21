@@ -1,0 +1,139 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alandevlin/exercism/scala/space-age/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> /Users/alandevlin/exercism/scala/space-age/target/scala-2.12/classes/SpaceAge$.class
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> /Users/alandevlin/exercism/scala/space-age/target/scala-2.12/classes/SpaceAge.class
+binary dependencies:
+2 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> /Users/alandevlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> SpaceAge
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> SpaceAge$
+used names:
+60 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> &&
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> *
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> /
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> <init>
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> ==
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> A
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> AbstractFunction1
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Any
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> AnyRef
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Boolean
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Double
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> IndexOutOfBoundsException
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Int
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Iterator
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Long
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> None
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Nothing
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Object
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Option
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Predef
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Product
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> ScalaRunTime
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Serializable
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Some
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> SpaceAge
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> Statics
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> String
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> T
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> T0
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> _root_
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> _toString
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> asInstanceOf
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> earthSecs
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> eq
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> finalizeHash
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> isInstanceOf
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> jupiterEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> longHash
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> marsEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> mercuryEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> mix
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> neptuneEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onEarth
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onJupiter
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onMars
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onMercury
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onNeptune
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onSaturn
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onUranus
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> onVenus
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> package
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> runtime
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> saturnEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> scala
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> seconds
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> toString
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> typedProductIterator
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> uranusEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> venusEarthRatio
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> ||
+product stamps:
+2 items
+/Users/alandevlin/exercism/scala/space-age/target/scala-2.12/classes/SpaceAge$.class -> lastModified(1500813944000)
+/Users/alandevlin/exercism/scala/space-age/target/scala-2.12/classes/SpaceAge.class -> lastModified(1500813944000)
+source stamps:
+1 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> hash(a4976349d4bb0d4c959261774ac57cfffc57c82b)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466622116000)
+/Users/alandevlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alandevlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4oE11gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyYyLanQABm5vdGlmeXNxAH4ADOUMdfV0AAR3YWl0c3EAfgAM3kg14XQADSRhc0luc3RhbmNlT2ZzcQB+AAyHIGyOdAARbWVyY3VyeUVhcnRoUmF0aW9zcQB+AAwueXl5dAAHb25FYXJ0aHNxAH4ADEGLxaJ0AAxwcm9kdWN0QXJpdHlzcQB+AAyQeIFqdAAGZXF1YWxzc3EAfgAMa/jj/XQAEHNhdHVybkVhcnRoUmF0aW9zcQB+AAxXB7EedAAMYXNJbnN0YW5jZU9mc3EAfgAMn32fBnQAB29uVmVudXNzcQB+AAz0XMb5dAAHc2Vjb25kc3NxAH4ADLby1O90AAxzeW5jaHJvbml6ZWRzcQB+AAyqpuCsdAAIU3BhY2VBZ2VzcQB+AAzGp7q6dAANJGlzSW5zdGFuY2VPZnNxAH4ADDPTHAN0AAhjYW5FcXVhbHNxAH4ADNnZCjV0AA1wcm9kdWN0UHJlZml4c3EAfgAMa2go4HQAEHVyYW51c0VhcnRoUmF0aW9zcQB+AAxiIdHHdAAJbm90aWZ5QWxsc3EAfgAM8TmJf3QADGlzSW5zdGFuY2VPZnNxAH4ADMe+Jgt0AAlvbk1lcmN1cnlzcQB+AAzl8su1dAAGPGluaXQ+c3EAfgAMAnnJIXQACW9uSnVwaXRlcnNxAH4ADOxK3KR0AAI9PXNxAH4ADM59LCF0AAVjbG9uZXNxAH4ADFckKAF0AA92ZW51c0VhcnRoUmF0aW9zcQB+AAyF1L+qdAAGJGluaXQkc3EAfgAM+xmQlnQACG9uVXJhbnVzc3EAfgAMDAZkpnQAEW5lcHR1bmVFYXJ0aFJhdGlvc3EAfgAMKq9u+3QACG9uU2F0dXJuc3EAfgAMszWQt3QABGNvcHlzcQB+AAy6FvardAAIdG9TdHJpbmdzcQB+AAzOCWnOdAAJb25OZXB0dW5lc3EAfgAM4TEz8XQAAiE9c3EAfgAMg+n60HQAEWp1cGl0ZXJFYXJ0aFJhdGlvc3EAfgAMNbUVXXQACGdldENsYXNzc3EAfgAMKiMdvXQADmNvcHkkZGVmYXVsdCQxc3EAfgAME/r0oHQACWVhcnRoU2Vjc3NxAH4ADMgoRY10AAJuZXNxAH4ADE7t/fZ0AAZvbk1hcnNzcQB+AAxViWDNdAACZXFzcQB+AAxRryv2dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMejhU/XQAAiMjc3EAfgAMYdPsWHQACGZpbmFsaXplc3EAfgAMHJCgCXQADnByb2R1Y3RFbGVtZW50c3EAfgAML68M0XQACGhhc2hDb2Rlc3EAfgAMQcB8AHQADm1hcnNFYXJ0aFJhdGlvc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ac3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ac0wACWluaGVyaXRlZHEAfgBzTAAHcGFyZW50c3EAfgBzeHEAfgCPc3EAfgCKdXEAfgBuAAAAAHNxAH4AinVxAH4AbgAAAABzcQB+AIp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI50AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKhzcQB+AJtxAH4AnnNxAH4An3NxAH4AonVxAH4ApQAAAANzcQB+AKd0AARqYXZhc3EAfgCndAACaW9xAH4ArHNxAH4Am3QAB1Byb2R1Y3RxAH4AoXNxAH4Am3QABkVxdWFsc3EAfgChc3EAfgCbdAAGT2JqZWN0c3EAfgCfc3EAfgCidXEAfgClAAAAA3NxAH4Ap3EAfgCyc3EAfgCndAAEbGFuZ3EAfgCsc3EAfgCbdAADQW55cQB+AKF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXW97ZrZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABEL1VzZXJzL2FsYW5kZXZsaW4vZXhlcmNpc20vc2NhbGEvc3BhY2UtYWdlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSkl2NJ1LsNTJWSYXdKxXz//FfIKw==
+external apis:
+0 items
+source infos:
+1 items
+/Users/alandevlin/exercism/scala/space-age/src/main/scala/SpaceAge.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXW95Km51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9hbGFuZGV2bGluL2V4ZXJjaXNtL3NjYWxhL3NwYWNlLWFnZS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXW97ZrZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9hbGFuZGV2bGluL2V4ZXJjaXNtL3NjYWxhL3NwYWNlLWFnZS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

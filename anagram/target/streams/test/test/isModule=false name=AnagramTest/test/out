@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mAnagramTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- no matches[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects simple anagram[0m[0m
+[0m[[0minfo[0m] [0m[32m- does not detect false positives[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects two anagrams[0m[0m
+[0m[[0minfo[0m] [0m[32m- does not detect anagram subsets[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects anagram[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects three anagrams[0m[0m
+[0m[[0minfo[0m] [0m[32m- does not detect identical words[0m[0m
+[0m[[0minfo[0m] [0m[32m- does not detect non-anagrams with identical checksum[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects anagrams case-insensitively[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects anagrams using case-insensitive subject[0m[0m
+[0m[[0minfo[0m] [0m[32m- detects anagrams using case-insensitive possible matches[0m[0m
+[0m[[0minfo[0m] [0m[32m- does not detect a word as its own anagram[0m[0m
+[0m[[0minfo[0m] [0m[32m- does not detect a anagram if the original word is repeated[0m[0m
+[0m[[0minfo[0m] [0m[32m- anagrams must use all letters exactly once[0m[0m
+[0m[[0minfo[0m] [0m[32m- capital word is not own anagram[0m[0m

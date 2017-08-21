@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mProteinTranslationTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies methionine codon[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies phenylalanine codons[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies leucine codons[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies serine codons[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies tyrosine codons[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies cysteine codons[0m[0m
+[0m[[0minfo[0m] [0m[32m- Identifies tryptophan codons[0m[0m
+[0m[[0minfo[0m] [0m[32m- Translate RNA strand into correct protein[0m[0m
+[0m[[0minfo[0m] [0m[32m- Stops translation if stop codon is present[0m[0m
+[0m[[0minfo[0m] [0m[32m- Stops translation of longest strand[0m[0m

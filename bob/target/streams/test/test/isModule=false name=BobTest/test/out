@@ -1,0 +1,38 @@
+[0m[[0minfo[0m] [0m[32mBobTest:[0m[0m
+[0m[[0minfo[0m] [0m[33m- stating something (pending)[0m[0m
+[0m[[0minfo[0m] [0m[31m- shouting *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.MatchError: WATCH OUT! (of class java.lang.String)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at Bob$.response(Bob.scala:10)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at BobTest.$anonfun$new$2(BobTest.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite.withFixture$(TestSuite.scala:195)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[33m- shouting gibberish (pending)[0m[0m
+[0m[[0minfo[0m] [0m[32m- asking a question[0m[0m
+[0m[[0minfo[0m] [0m[33m- asking a numeric question (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- asking gibberish (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- talking forcefully (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- using acronyms in regular speech (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- forceful question (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- shouting numbers (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- only numbers (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- question with only numbers (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- shouting with special characters (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- shouting with no exclamation mark (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- statement containing question mark (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- non-letters with question (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- prattling on (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- silence (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- prolonged silence (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- alternate silence (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- multiple line question (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- starting with whitespace (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- ending with whitespace (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- other whitespace (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- non-question ending with whitespace (pending)[0m[0m
