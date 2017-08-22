@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/scala/MeetupTest.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2210">
-              <caret line="171" column="34" lean-forward="true" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+              <caret line="171" column="34" lean-forward="false" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -42,8 +42,8 @@
       <file leaf-file-name="Meetup.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Meetup.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="455">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -75,7 +75,7 @@
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="467" column="34" lean-forward="true" selection-start-line="467" selection-start-column="34" selection-end-line="467" selection-end-column="34" />
+              <caret line="467" column="34" lean-forward="false" selection-start-line="467" selection-start-column="34" selection-end-line="467" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -166,6 +166,22 @@
     <option name="width" value="1280" />
     <option name="height" value="729" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -230,8 +246,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -535,7 +550,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="467" column="34" lean-forward="true" selection-start-line="467" selection-start-column="34" selection-end-line="467" selection-end-column="34" />
+          <caret line="467" column="34" lean-forward="false" selection-start-line="467" selection-start-column="34" selection-end-line="467" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -567,7 +582,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/scala/MeetupTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2210">
-          <caret line="171" column="34" lean-forward="true" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+          <caret line="171" column="34" lean-forward="false" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -585,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Meetup.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="455">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
